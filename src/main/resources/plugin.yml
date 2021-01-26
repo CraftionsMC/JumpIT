@@ -1,0 +1,4 @@
+name: Jumpit
+version: ${project.version}
+main: net.craftions.jumpit.Jumpit
+api-version: 1.16
